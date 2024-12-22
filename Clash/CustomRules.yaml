@@ -18,33 +18,34 @@ payload:
   - DOMAIN-SUFFIX,buzzheavier.com,Proxy
   # /*Game*/
   # cravesaga
-  - DOMAIN-SUFFIX,gg-client-w.crave-saga.net,Proxy
-  - DOMAIN-SUFFIX,gg-resource.crave-saga.net,Proxy
-  - DOMAIN-SUFFIX,gg-server.crave-saga.net,Proxy
+  - DOMAIN-SUFFIX,gg-client-w.crave-saga.net,Proxy # Game Resources
+  - DOMAIN-SUFFIX,gg-resource.crave-saga.net,Proxy # Game Resources
+  - DOMAIN-SUFFIX,gg-server.crave-saga.net,Proxy # Game Resources
   # housamo
-  - DOMAIN-SUFFIX,elb.housamo.jp,Proxy
+  - DOMAIN-SUFFIX,elb.housamo.jp,Proxy # Game Resources
   # mariorun
-  - DOMAIN-SUFFIX,api.supermariorun.com,Proxy
+  - DOMAIN-SUFFIX,api.supermariorun.com,Proxy # Location Verification
   # mbga
-  - DOMAIN-SUFFIX,pazuani.net,Proxy
-  # pjsekai
+  - DOMAIN-SUFFIX,pazuani.net,Proxy # Game Resources
+  # pjsekai - include "Game Resources" & "Location Verification"
   - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org,Proxy
   - DOMAIN-SUFFIX,production-cf2d2388-assetbundle-info.sekai.colorfulpalette.org,Proxy
   - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org,Proxy
   # pokemmo
-  - DOMAIN-SUFFIX,loginserver.pokemmo.com,Proxy
-  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com,Proxy
+  - DOMAIN-SUFFIX,loginserver.pokemmo.com,Proxy # Location Verification
+  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com,Proxy # Location Verification
   # pokemonhome
-  - DOMAIN-SUFFIX,resource.pokemon-home.com,Proxy
-  - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com,Proxy
+  - DOMAIN-SUFFIX,resource.pokemon-home.com,Proxy # Game Resources
+  - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com,Proxy # Game Resources
   # pokemonmasters
-  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com,Proxy
+  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com,Proxy # Location Verification
   # pokemonunite
-  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com,Proxy
-  - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com,Proxy
+  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com,Proxy # Location Verification
+  - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com,Proxy # First Page Loading
+  - DOMAIN-SUFFIX,image.pokemon-unitepgame.com,Proxy # Image Resources
   # tamacolle
-  - DOMAIN-SUFFIX,nijitama.app,Proxy
-  - DOMAIN-SUFFIX,tukitama.com,Proxy
+  - DOMAIN-SUFFIX,nijitama.app,Proxy # Tamacolle Official Website
+  - DOMAIN-SUFFIX,tukitama.com,Proxy # Game Resources
   # /*Media*/
   # acggw
   - DOMAIN-SUFFIX,acggw.club,Proxy
@@ -71,7 +72,7 @@ payload:
   # /*SoftwareProvider*/
   # spacedesk
   - DOMAIN-SUFFIX,download3.navicat.com,Proxy
-  - DOMAIN-SUFFIX,spacedesk.net,Proxy
+  - DOMAIN-SUFFIX,spacedesk.net,Proxy 
   # /*Tool*/
   # /*networkTest*/
   - DOMAIN-SUFFIX,browserleaks.com,Proxy
