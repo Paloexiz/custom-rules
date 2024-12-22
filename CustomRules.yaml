@@ -5,8 +5,6 @@ payload:
   - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com,Proxy
   # google
   - DOMAIN-SUFFIX,cable.ua5v.com,Proxy # Google Authenticator
-  - DOMAIN-SUFFIX,gstatic.com,Proxy # Google Static Resources
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy # Google Play Download Service
   # jotform
   - DOMAIN-SUFFIX,jotform.com,Proxy
   # torbrowser-windows
