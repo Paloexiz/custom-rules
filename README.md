@@ -4,7 +4,7 @@ Update frequency: anytime.
 ## 🔗Links  
 If you would like to use `CustomRules.yaml`, you can get it with following links:  
 - Original: https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Clash/CustomRules.yaml  
-- CDN: https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Clash/CustomRules.yaml  
+- CDN(delaying sync): https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Clash/CustomRules.yaml  
 ## ℹ️Note
 To use `CustomRules.yaml` file, your `behavior` property should be `classical`.  
 ### Example:  
