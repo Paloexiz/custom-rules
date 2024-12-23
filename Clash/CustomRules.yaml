@@ -1,60 +1,58 @@
 payload:
   # /*ApplicationService*/
   # bootstrapcdn
-  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com,Proxy
+  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com,Proxy # A CDN platform for loading website resources.
   # google
-  - DOMAIN-SUFFIX,cable.ua5v.com,Proxy # Google Authenticator
+  - DOMAIN-SUFFIX,cable.ua5v.com,Proxy # Google Authenticator, authorize passkey by phone/tablet to login a account on another device.
   # jotform
-  - DOMAIN-SUFFIX,jotform.com,Proxy
+  - DOMAIN-SUFFIX,jotform.com,Proxy # Free Online Form Builder & Form Creator(described by Official Website).
   # torbrowser-windows
-  - PROCESS-NAME,lyrebird.exe,Proxy
+  - PROCESS-NAME,lyrebird.exe,Proxy # A browser you may know.
   # /*Blog*/
-  # timochan
-  - DOMAIN-SUFFIX,timochan.cn,Proxy
+  # acggw
+  - DOMAIN-SUFFIX,acggw.club,Proxy # A blog for sharing comic & game resources.
   # v2rayssr
-  - DOMAIN-SUFFIX,v2rayssr.com,Proxy
+  - DOMAIN-SUFFIX,v2rayssr.com,Proxy # Location Verification.
   # /*CloudStorage*/
   # buzzheavier
   - DOMAIN-SUFFIX,buzzheavier.com,Proxy
   # /*Game*/
   # cravesaga
-  - DOMAIN-SUFFIX,gg-client-w.crave-saga.net,Proxy # Game Resources
-  - DOMAIN-SUFFIX,gg-resource.crave-saga.net,Proxy # Game Resources
-  - DOMAIN-SUFFIX,gg-server.crave-saga.net,Proxy # Game Resources
+  - DOMAIN-SUFFIX,gg-client-w.crave-saga.net,Proxy # Game Resources Loading.
+  - DOMAIN-SUFFIX,gg-resource.crave-saga.net,Proxy # Game Resources Loading.
+  - DOMAIN-SUFFIX,gg-server.crave-saga.net,Proxy # Game Resources Loading.
   # housamo
-  - DOMAIN-SUFFIX,elb.housamo.jp,Proxy # Game Resources
+  - DOMAIN-SUFFIX,elb.housamo.jp,Proxy # Game Resources Loading.
   # mariorun
-  - DOMAIN-SUFFIX,api.supermariorun.com,Proxy # Location Verification
+  - DOMAIN-SUFFIX,api.supermariorun.com,Proxy # Location Verification.
   # mbga
-  - DOMAIN-SUFFIX,pazuani.net,Proxy # Game Resources
+  - DOMAIN-SUFFIX,pazuani.net,Proxy # Game Resources.
   # pjsekai - include "Game Resources" & "Location Verification"
   - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org,Proxy
   - DOMAIN-SUFFIX,production-cf2d2388-assetbundle-info.sekai.colorfulpalette.org,Proxy
   - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org,Proxy
   # pokemmo
-  - DOMAIN-SUFFIX,loginserver.pokemmo.com,Proxy # Location Verification
-  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com,Proxy # Location Verification
+  - DOMAIN-SUFFIX,loginserver.pokemmo.com,Proxy # Location Verification.
+  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com,Proxy # Location Verification.
   # pokemonhome
-  - DOMAIN-SUFFIX,resource.pokemon-home.com,Proxy # Game Resources
-  - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com,Proxy # Game Resources
+  - DOMAIN-SUFFIX,resource.pokemon-home.com,Proxy # Game Resources Loading.
+  - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com,Proxy # Game Resources Loading.
   # pokemonmasters
-  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com,Proxy # Location Verification
+  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com,Proxy # Location Verification.
   # pokemonunite
-  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com,Proxy # Location Verification
-  - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com,Proxy # First Page Loading
-  - DOMAIN-SUFFIX,image.pokemon-unitepgame.com,Proxy # Image Resources
+  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com,Proxy # Location Verification.
+  - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com,Proxy # First Page Loading.
+  - DOMAIN-SUFFIX,image.pokemon-unitepgame.com,Proxy # Image Resources Loading.
   # tamacolle
-  - DOMAIN-SUFFIX,nijitama.app,Proxy # Tamacolle Official Website
-  - DOMAIN-SUFFIX,tukitama.com,Proxy # Game Resources
+  - DOMAIN-SUFFIX,nijitama.app,Proxy # Tamacolle Official Website.
+  - DOMAIN-SUFFIX,tukitama.com,Proxy # Game Resources Loading.
   # /*Media*/
-  # acggw
-  - DOMAIN-SUFFIX,acggw.club,Proxy
   # colamanga
-  - DOMAIN-SUFFIX,colamanga.com,Proxy
+  - DOMAIN-SUFFIX,colamanga.com,Proxy # A comic sharing website.
   # apple-shazam
-  - DOMAIN-SUFFIX,shazam.com,Shazam
+  - DOMAIN-SUFFIX,shazam.com,Shazam # Recognize music nearby.
   # /*NetworkProvider*/
-  # domesticToOverseaService
+  # domesticToOverseaService - as you see, chicken farms
   - DOMAIN-SUFFIX,bityun.co,Proxy
   - DOMAIN-SUFFIX,tntyun.xyz,Proxy
   - DOMAIN-SUFFIX,tntv2.shop,Proxy
@@ -64,30 +62,30 @@ payload:
   - DOMAIN-SUFFIX,smart.fmta.boo,Proxy
   - DOMAIN-SUFFIX,my.recmata.net,Proxy
   - DOMAIN-SUFFIX,nordcdn.com,Proxy
-  # /*Social*/
   # /*SoftwareMarket*/
   # apkcombo
-  - DOMAIN-SUFFIX,cdn.apkflash.net,Proxy
-  - DOMAIN-SUFFIX,cdn.androidcombo.com,Proxy
+  - DOMAIN-SUFFIX,cdn.apkflash.net,Proxy # Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com,Proxy # Software Resources Downloading.
   # /*SoftwareProvider*/
+  # navicat
+  - DOMAIN-SUFFIX,download3.navicat.com,Proxy # Navicat Premium Updating.
   # spacedesk
-  - DOMAIN-SUFFIX,download3.navicat.com,Proxy
-  - DOMAIN-SUFFIX,spacedesk.net,Proxy 
+  - DOMAIN-SUFFIX,spacedesk.net,Proxy # Spacedesk by datronicsoft Official Website.
   # /*Tool*/
-  # /*networkTest*/
+  # dnsLeakTest
   - DOMAIN-SUFFIX,browserleaks.com,Proxy
   - DOMAIN-SUFFIX,browserleaks.net,Proxy
   - DOMAIN-SUFFIX,browserleaks.org,Proxy
   - DOMAIN-SUFFIX,dnsleaktest.com,Proxy
   - DOMAIN-SUFFIX,ipleak.net,Proxy
   - DOMAIN-SUFFIX,surfsharkdns.com,Proxy
-  # /*unofficialTwitterDownloader*/
-  - DOMAIN-SUFFIX,savetwitter.net,Proxy
-  - DOMAIN-SUFFIX,twcdn.xyz,Proxy
+  # unofficialTwitterResourcesDownloader
+  - DOMAIN-SUFFIX,savetwitter.net,Proxy # Website Resources Loading.
+  - DOMAIN-SUFFIX,twcdn.xyz,Proxy # Image & Video Downloading.
   # v2rayseNodeTool
   - DOMAIN-SUFFIX,v2rayse.com,Proxy
-  # /*wiki*/
-  - DOMAIN-SUFFIX,hiddifynext.com,Proxy
-  - DOMAIN-SUFFIX,matsuridayo.github.io,Proxy
-  - DOMAIN-SUFFIX,wiki.metacubex.one,Proxy
-  - DOMAIN-SUFFIX,v2raya.org,Proxy
+  # /*Wiki*/
+  - DOMAIN-SUFFIX,hiddifynext.com,Proxy # Hiddify Official Website.
+  - DOMAIN-SUFFIX,matsuridayo.github.io,Proxy # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software.
+  - DOMAIN-SUFFIX,wiki.metacubex.one,Proxy # Mihomo Official Wiki.
+  - DOMAIN-SUFFIX,v2raya.org,Proxy # v2rayA Official Wiki.
