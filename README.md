@@ -14,7 +14,7 @@ rule-providers:
     {
       type: http,
       interval: 86400,
-      format: mrs,
+      format: yaml,
       behavior: classical,
       url: "https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Clash/CustomRules.yaml",
       path: "./ruleset/paloexiz/customrules.yaml",
