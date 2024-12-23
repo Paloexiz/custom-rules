@@ -70,7 +70,7 @@ payload:
   # navicat
   - DOMAIN-SUFFIX,download3.navicat.com,Proxy # Navicat Premium Updating.
   # spacedesk
-  - DOMAIN-SUFFIX,spacedesk.net,Proxy # Spacedesk by datronicsoft Official Website.
+  - DOMAIN-SUFFIX,spacedesk.net,Proxy # Spacedesk Official Website, by datronicsoft.
   # /*Tool*/
   # dnsLeakTest
   - DOMAIN-SUFFIX,browserleaks.com,Proxy
