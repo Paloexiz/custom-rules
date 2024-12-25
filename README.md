@@ -1,4 +1,6 @@
-# 📜custom-rules
+# 📜custom-rules  
+🌐Select your Language: English | [简体中文](README_CN.md)  
+  
 Custom rules for myself, maybe not fit for you.  
 Update frequency: anytime.  
 ## 🔗Links  
