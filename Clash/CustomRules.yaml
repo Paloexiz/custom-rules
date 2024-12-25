@@ -66,8 +66,9 @@ payload:
   - DOMAIN-SUFFIX,nordcdn.com
   # /*SoftwareMarket*/
   # apkcombo
-  - DOMAIN-SUFFIX,cdn.apkflash.net # Software Resources Downloading.
-  - DOMAIN-SUFFIX,cdn.androidcombo.com # Software Resources Downloading.
+  - DOMAIN-SUFFIX,apkflash.com # Location Verification, APKCombo Official Website.
+  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification, Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification, Software Resources Downloading.
   # /*SoftwareProvider*/
   # navicat
   - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating.
