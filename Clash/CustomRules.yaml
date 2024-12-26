@@ -82,6 +82,9 @@ payload:
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,surfsharkdns.com
+  # proxy/vpnDetection
+  - DOMAIN-SUFFIX,proxy.888005.xyz
+  - DOMAIN-SUFFIX,proxy.incolumitas.com
   # unofficialTwitterResourcesDownloader
   - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
   - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
