@@ -14,7 +14,7 @@ Update frequency: anytime.
 - Original: [Download](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Common/Boost/Clash/SlowDomains.yaml)  
 - CDN(maybe 24-hour-delaying sync): [Download](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Common/Boost/Clash/SlowDomains.yaml)  
 ## ℹ️Note  
-To use `CustomRules.yaml` file, your `behavior` property should be `classical`.  
+To use above files, your `behavior` property should be `classical`.  
 ### Example:  
 ```yaml
 rule-providers:
