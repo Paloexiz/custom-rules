@@ -1,9 +1,9 @@
 payload:
   # /*ApplicationService*/
   # bootstrapcdn
-  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources.
+  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
   # google
-  - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device.
+  - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
   # jotform
   - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
   # torbrowser-windows
@@ -14,7 +14,7 @@ payload:
   # v2rayssr
   - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
   # visualstudiocode
-  - DOMAIN-SUFFIX,gallerycdn.vsassets.io # Extension market, extension Resources Downloading.
+  - DOMAIN-SUFFIX,gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
   # /*CloudStorage*/
   # buzzheavier
   - DOMAIN-SUFFIX,buzzheavier.com
@@ -28,11 +28,7 @@ payload:
   # mariorun
   - DOMAIN-SUFFIX,api.supermariorun.com # Location Verification.
   # mbga
-  - DOMAIN-SUFFIX,pazuani.net # Game Resources.
-  # pjsekai - include "Game Resources" & "Location Verification"
-  - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
-  - DOMAIN-SUFFIX,production-cf2d2388-assetbundle-info.sekai.colorfulpalette.org
-  - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,pazuani.net # Game Resources Loading.
   # pokemmo
   - DOMAIN-SUFFIX,loginserver.pokemmo.com # Location Verification.
   - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com # Location Verification.
@@ -50,7 +46,7 @@ payload:
   - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
   # /*Media*/
   # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website.
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website, unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
   # /*NetworkProvider*/
@@ -71,9 +67,9 @@ payload:
   - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification, Software Resources Downloading.
   # /*SoftwareProvider*/
   # navicat
-  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating.
+  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating, blocked by something for unknown reason.
   # spacedesk
-  - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft.
+  - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # /*Tool*/
   # dnsLeakTest
   - DOMAIN-SUFFIX,browserleaks.com
@@ -89,9 +85,9 @@ payload:
   - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
   - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
   # v2rayseNodeTool
-  - DOMAIN-SUFFIX,v2rayse.com
+  - DOMAIN-SUFFIX,v2rayse.com # Currently Blocked by a firewall you may know.
   # /*Wiki*/
-  - DOMAIN-SUFFIX,hiddifynext.com # Hiddify Official Website.
-  - DOMAIN-SUFFIX,matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software.
-  - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki.
-  - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki.
+  - DOMAIN-SUFFIX,hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
+  - DOMAIN-SUFFIX,matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
+  - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
