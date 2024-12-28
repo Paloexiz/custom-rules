@@ -5,14 +5,14 @@
 更新频率：任何时候。  
 ## 🔗链接  
 ##### 📜如需将`CustomRules.yaml`文件缓存于本地存储，您可以使用如下链接：  
-- 原始链接：[下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Clash/CustomRules.yaml)  
-- 镜像链接（可能会有24小时的延迟）：[下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Clash/CustomRules.yaml)  
+- 原始链接：[查看或下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Clash/CustomRules.yaml)  
+- 镜像链接（可能会有24小时的延迟）：[查看或下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Clash/CustomRules.yaml)  
 ##### 🌏想要解锁地域限制？您可以使用如下链接获取`BlockedDomains.yaml`文件：  
-- 原始链接：[下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Common/Unlock/Clash/BlockedDomains.yaml)  
-- 镜像链接（可能会有24小时的延迟）：[下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Common/Unlock/Clash/BlockedDomains.yaml)  
+- 原始链接：[查看或下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Common/Unlock/Clash/BlockedDomains.yaml)  
+- 镜像链接（可能会有24小时的延迟）：[查看或下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Common/Unlock/Clash/BlockedDomains.yaml)  
 ##### ⛓️‍💥想要加速访问加载缓慢的连接？您可以使用如下链接获取`SlowDomains.yaml`文件：  
-- 原始链接：[下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Common/Boost/Clash/SlowDomains.yaml)  
-- 镜像链接（可能会有24小时的延迟）：[下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Common/Boost/Clash/SlowDomains.yaml)  
+- 原始链接：[查看或下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Common/Boost/Clash/SlowDomains.yaml)  
+- 镜像链接（可能会有24小时的延迟）：[查看或下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Common/Boost/Clash/SlowDomains.yaml)  
 ## ℹ️注意事项  
 若需使用上述文件, 您的`behavior`属性应为`classical`项。  
 ### 示例:  
