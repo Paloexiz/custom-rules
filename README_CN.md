@@ -14,7 +14,7 @@
 - 原始链接：[下载](https://raw.githubusercontent.com/Paloexiz/custom-rules/main/Common/Boost/Clash/SlowDomains.yaml)  
 - 镜像链接（可能会有24小时的延迟）：[下载](https://fastly.jsdelivr.net/gh/Paloexiz/custom-rules@main/Common/Boost/Clash/SlowDomains.yaml)  
 ## ℹ️注意事项  
-如果想要使用`CustomRules.yaml`文件, 您的`behavior`属性应为`classical`项。  
+若需使用上述文件, 您的`behavior`属性应为`classical`项。  
 ### 示例:  
 ```yaml
 rule-providers:
