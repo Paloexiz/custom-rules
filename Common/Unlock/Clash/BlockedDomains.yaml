@@ -19,10 +19,10 @@ payload:
   # pokemonunite
   - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com # Location Verification.
   # /*Media*/
-  # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
+  # colamanga
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # /*SoftwareMarket*/
   # apkcombo
   - DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
