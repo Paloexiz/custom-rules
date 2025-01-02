@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
   # /*Media*/
   # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website, unlock some invisible resources.
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
   # /*NetworkProvider*/
