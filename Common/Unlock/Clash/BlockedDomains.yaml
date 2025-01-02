@@ -2,7 +2,9 @@ payload:
   # /*ApplicationService*/
   # bootstrapcdn
   - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+  # google
   - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # /*Blog*/
   # v2rayssr
   - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
@@ -17,18 +19,18 @@ payload:
   # pokemonunite
   - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com # Location Verification.
   # /*Media*/
-  # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website, unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
+  # colamanga
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # /*SoftwareMarket*/
   # apkcombo
-  - DOMAIN-SUFFIX,apkflash.com # Location Verification, APKCombo Official Website.
-  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification, Software Resources Downloading.
-  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification, Software Resources Downloading.
+  - DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
+  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification. Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # /*SoftwareProvider*/
   # navicat
-  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating, blocked by something for unknown reason.
+  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
   - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # v2rayseNodeTool

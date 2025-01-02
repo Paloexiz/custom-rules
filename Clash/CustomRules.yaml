@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
   # google
   - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # jotform
   - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
   # torbrowser-windows
@@ -45,10 +46,10 @@ payload:
   - DOMAIN-SUFFIX,nijitama.app # Tamacolle Official Website.
   - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
   # /*Media*/
-  # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website, unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
+  # colamanga
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # /*NetworkProvider*/
   # domesticToOverseaService - as you see, chicken farms
   - DOMAIN-SUFFIX,bityun.co
@@ -62,12 +63,12 @@ payload:
   - DOMAIN-SUFFIX,nordcdn.com
   # /*SoftwareMarket*/
   # apkcombo
-  - DOMAIN-SUFFIX,apkflash.com # Location Verification, APKCombo Official Website.
-  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification, Software Resources Downloading.
-  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification, Software Resources Downloading.
+  - DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
+  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification. Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # /*SoftwareProvider*/
   # navicat
-  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating, blocked by something for unknown reason.
+  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
   - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # /*Tool*/
