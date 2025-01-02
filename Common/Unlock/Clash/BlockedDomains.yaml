@@ -3,6 +3,8 @@ payload:
   # bootstrapcdn
   - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
   - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  # google
+  - DOMAIN-SUFFIX,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # /*Blog*/
   # v2rayssr
   - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
@@ -23,9 +25,9 @@ payload:
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
   # /*SoftwareMarket*/
   # apkcombo
-  - DOMAIN-SUFFIX,apkflash.com # Location Verification, APKCombo Official Website.
-  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification, Software Resources Downloading.
-  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification, Software Resources Downloading.
+  - DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
+  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification. Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # /*SoftwareProvider*/
   # navicat
   - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating, blocked by something for unknown reason.
