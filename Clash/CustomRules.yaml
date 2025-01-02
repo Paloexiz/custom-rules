@@ -46,10 +46,10 @@ payload:
   - DOMAIN-SUFFIX,nijitama.app # Tamacolle Official Website.
   - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
   # /*Media*/
-  # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
+  # colamanga
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # /*NetworkProvider*/
   # domesticToOverseaService - as you see, chicken farms
   - DOMAIN-SUFFIX,bityun.co
