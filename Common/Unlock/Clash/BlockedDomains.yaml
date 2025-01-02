@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com # Location Verification.
   # /*Media*/
   # colamanga
-  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website, unlock some invisible resources.
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
   # apple-shazam
   - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
   # /*SoftwareMarket*/
@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # /*SoftwareProvider*/
   # navicat
-  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating, blocked by something for unknown reason.
+  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
   - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # v2rayseNodeTool
